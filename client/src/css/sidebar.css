@@ -1,0 +1,30 @@
+.p-10 {
+  padding: 20px;
+}
+
+.w-40 {
+  width: 40vh;
+}
+
+.j-down {
+  position: absolute;
+  bottom: 5%;
+}
+
+.list-group-item {
+  border-radius: 5px !important;
+}
+
+.bg-dark {
+  color: white;
+  text-align: center;
+}
+
+hr {
+  width: 50%;
+  background-color: aliceblue;
+}
+
+.titlename {
+  font-size: 3rem;
+}
